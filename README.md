@@ -1,0 +1,1 @@
+###Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/4anylnl8x6207v75?svg=true)](https://ci.appveyor.com/project/Alexandra-Matyukhina/ci-settings)
